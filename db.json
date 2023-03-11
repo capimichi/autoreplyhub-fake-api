@@ -1,0 +1,14 @@
+{
+  "email-addresses": [
+    {"id": 1, "address": "john@example.com"},
+    {"id": 2, "address": "jane@example.com"},
+    {"id": 3, "address": "bob@example.com"},
+    {"id": 4, "address": "sara@example.com"},
+    {"id": 5, "address": "tom@example.com"},
+    {"id": 6, "address": "jessica@example.com"},
+    {"id": 7, "address": "alex@example.com"},
+    {"id": 8, "address": "olivia@example.com"},
+    {"id": 9, "address": "max@example.com"},
+    {"id": 10, "address": "lisa@example.com"}
+  ]
+}
