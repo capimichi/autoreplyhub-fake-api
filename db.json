@@ -1,44 +1,144 @@
 {
   "email-addresses": [
-    {
-      "id": 1,
-      "address": "john@example.com"
-    },
-    {
-      "id": 2,
-      "address": "jane@example.com"
-    },
-    {
-      "id": 3,
-      "address": "bob@example.com"
-    },
-    {
-      "id": 4,
-      "address": "sara@example.com"
-    },
-    {
-      "id": 5,
-      "address": "tom@example.com"
-    },
-    {
-      "id": 6,
-      "address": "jessica@example.com"
-    },
-    {
-      "id": 7,
-      "address": "alex@example.com"
-    },
+  {
+    "id": 1,
+    "address": "john@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "john",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "john",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
+  },
+  {
+    "id": 2,
+    "address": "jane@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "jane",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "jane",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
+  },
+  {
+    "id": 3,
+    "address": "bob@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "bob",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "bob",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
+  },
+  {
+    "id": 4,
+    "address": "sara@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "sara",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "sara",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
+  },
+  {
+    "id": 5,
+    "address": "tom@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "tom",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "tom",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
+  },
+  {
+    "id": 6,
+    "address": "jessica@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "jessica",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "jessica",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
+  },
+  {
+    "id": 7,
+    "address": "alex@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "alex",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "alex",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
+  },
     {
       "id": 8,
-      "address": "olivia@example.com"
+      "address": "olivia@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "alex",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "alex",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
     },
     {
       "id": 9,
-      "address": "max@example.com"
+      "address": "max@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "alex",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "alex",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
     },
     {
       "id": 10,
-      "address": "lisa@example.com"
+      "address": "lisa@example.com",
+    "imap_host": "imap.example.com",
+    "imap_port": 993,
+    "imap_user": "alex",
+    "imap_pwd": "password123",
+    "imap_ssl": true,
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "alex",
+    "smtp_pwd": "password456",
+    "smtp_ssl": true
     }
   ],
   "email-messages": [
