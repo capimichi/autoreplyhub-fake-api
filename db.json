@@ -47,70 +47,80 @@
       "from": "John Smith <john.smith@example.com>",
       "to": "Jane Doe <jane.doe@example.com>",
       "subject": "Meeting tomorrow",
-      "content": "Hi Jane, I wanted to remind you that we have a meeting tomorrow at 10am."
+      "content": "Hi Jane, I wanted to remind you that we have a meeting tomorrow at 10am.",
+      "date": "2022-03-10T08:30:00Z"
     },
     {
       "id": 2,
       "from": "Mary Johnson <mary.johnson@example.com>",
       "to": "John Smith <john.smith@example.com>",
       "subject": "Re: Meeting tomorrow",
-      "content": "Thanks for the reminder, John. I'll be there on time."
+      "content": "Thanks for the reminder, John. I'll be there on time.",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 3,
       "from": "Jane Doe <jane.doe@example.com>",
       "to": "Mary Johnson <mary.johnson@example.com>",
       "subject": "Re: Meeting tomorrow",
-      "content": "Looking forward to seeing you both tomorrow!"
+      "content": "Looking forward to seeing you both tomorrow!",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 4,
       "from": "Bob Brown <bob.brown@example.com>",
       "to": "John Smith <john.smith@example.com>",
       "subject": "Lunch invitation",
-      "content": "Hey John, would you like to grab lunch with me next week?"
+      "content": "Hey John, would you like to grab lunch with me next week?",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 5,
       "from": "John Smith <john.smith@example.com>",
       "to": "Bob Brown <bob.brown@example.com>",
       "subject": "Re: Lunch invitation",
-      "content": "Sure, let's do it! How about Wednesday?"
+      "content": "Sure, let's do it! How about Wednesday?",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 6,
       "from": "Alice White <alice.white@example.com>",
       "to": "John Smith <john.smith@example.com>",
       "subject": "Project update",
-      "content": "Hi John, just wanted to give you a quick update on the project. We're making good progress and should be on track for the deadline."
+      "content": "Hi John, just wanted to give you a quick update on the project. We're making good progress and should be on track for the deadline.",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 7,
       "from": "John Smith <john.smith@example.com>",
       "to": "Alice White <alice.white@example.com>",
       "subject": "Re: Project update",
-      "content": "Thanks for letting me know, Alice. Keep up the good work!"
+      "content": "Thanks for letting me know, Alice. Keep up the good work!",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 8,
       "from": "Bob Brown <bob.brown@example.com>",
       "to": "Jane Doe <jane.doe@example.com>",
       "subject": "Happy Birthday!",
-      "content": "Happy Birthday, Jane! Hope you have a great day."
+      "content": "Happy Birthday, Jane! Hope you have a great day.",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 9,
       "from": "Jane Doe <jane.doe@example.com>",
       "to": "Bob Brown <bob.brown@example.com>",
       "subject": "Re: Happy Birthday!",
-      "content": "Thanks so much, Bob! It's been a great day so far."
+      "content": "Thanks so much, Bob! It's been a great day so far.",
+      "date": "2022-03-10T10:15:00Z"
     },
     {
       "id": 10,
       "from": "Mary Johnson <mary.johnson@example.com>",
       "to": "John Smith <john.smith@example.com>",
       "subject": "Need your help",
-      "content": "Hey John, I'm having some trouble with the code. Can you take a look when you get a chance?"
+      "content": "Hey John, I'm having some trouble with the code. Can you take a look when you get a chance?",
+      "date": "2022-03-10T10:15:00Z"
     }
   ]
 }
