@@ -7,12 +7,12 @@
     "imap_port": 993,
     "imap_user": "john",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "ssl",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "john",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
   },
   {
     "id": 2,
@@ -35,12 +35,12 @@
     "imap_port": 993,
     "imap_user": "bob",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "tls",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "bob",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
   },
   {
     "id": 4,
@@ -63,12 +63,12 @@
     "imap_port": 993,
     "imap_user": "tom",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "none",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "tom",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
   },
   {
     "id": 6,
@@ -77,12 +77,12 @@
     "imap_port": 993,
     "imap_user": "jessica",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "ssl",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "jessica",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
   },
   {
     "id": 7,
@@ -91,12 +91,12 @@
     "imap_port": 993,
     "imap_user": "alex",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "ssl",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "alex",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
   },
     {
       "id": 8,
@@ -105,12 +105,12 @@
     "imap_port": 993,
     "imap_user": "alex",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "ssl",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "alex",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
     },
     {
       "id": 9,
@@ -119,12 +119,12 @@
     "imap_port": 993,
     "imap_user": "alex",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "ssl",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "alex",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
     },
     {
       "id": 10,
@@ -133,12 +133,12 @@
     "imap_port": 993,
     "imap_user": "alex",
     "imap_pwd": "password123",
-    "imap_ssl": true,
+    "imap_ssl": "ssl",
     "smtp_host": "smtp.example.com",
     "smtp_port": 587,
     "smtp_user": "alex",
     "smtp_pwd": "password456",
-    "smtp_ssl": true
+    "smtp_ssl": "ssl"
     }
   ],
   "email-messages": [
